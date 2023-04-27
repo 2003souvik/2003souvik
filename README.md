@@ -1,6 +1,6 @@
 <img src="https://camo.githubusercontent.com/5e3babfce4609dcd669a8f2a6d37b47c85486729942c57c5afbfc715f0b5dff7/68747470733a2f2f7777772e6469676974616c736f6c7574696f6e73657276696365732e636f6d2f696d672f73657276696365732f776562253230646576656c6f706d656e742e676966" alt="">
 <h1 align="center">Hi 👋, I'm Kumar Souvik Chatterjee</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate  developer from India</h3>
 <img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding" width="300">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=2003souvik&label=Profile%20views&color=0e75b6&style=flat" alt="2003souvik" /> </p>
@@ -29,3 +29,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=2003souvik&show_icons=true&locale=en" alt="2003souvik" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=2003souvik&" alt="2003souvik" /></p>
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--z5X0MXQA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j8wo9f1mou6g5469671h.gif" alt="">
