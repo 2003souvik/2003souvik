@@ -29,5 +29,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=2003souvik&show_icons=true&locale=en" alt="2003souvik" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=2003souvik&" alt="2003souvik" /></p>
-<a href="https://stats.quine.sh/2003souvik/languages-over-time?theme=light" target="_blank" rel="noreferrer">
+<a href="[![2003souvik's GitHub | Languages Over Time](https://stats.quine.sh/2003souvik/languages-over-time?theme=light)](https://quine.sh)![image](https://github.com/2003souvik/2003souvik/assets/110775890/1e04403d-9076-4b2f-bc1c-545a9cb5b391)
+" target="_blank" rel="noreferrer">
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--z5X0MXQA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j8wo9f1mou6g5469671h.gif" alt="">
