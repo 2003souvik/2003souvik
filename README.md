@@ -16,7 +16,7 @@
 - 💬 Ask me about **REACTJS,HTML,CSS,JAVASCRIPT**
 
 - 📫 How to reach me **kumarsouvik2003@gmail.com**
-- <a href="https://souvikio.netlify.app/">Souvik.Io</a>
+- <p> Portfolio Website: <a href="https://souvikio.netlify.app/">Souvik.Io</a></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
