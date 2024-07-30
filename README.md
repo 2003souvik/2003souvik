@@ -7,16 +7,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=2003souvik" alt="2003souvik" /></a> </p>
 
-- 🔭 I’m currently working on [Codepep](https://2003souvik.github.io/CodePep/)
-
-- 🌱 I’m currently learning **ReactJS,NextJS**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👯 I’m looking to collaborate on **OpenSource**
 
-- 💬 Ask me about **REACTJS,HTML,CSS,JAVASCRIPT**
+- 💬 Ask me about **MachineLearning,Python**
 
 - 📫 How to reach me **kumarsouvik2003@gmail.com**
-- <p> Portfolio Website: <a href="https://souvikio.netlify.app/">Souvik.Io</a></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
